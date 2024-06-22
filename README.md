@@ -8,7 +8,7 @@
 
 [![PkgGoDev](https://pkg.go.dev/badge/ezpkg.io/bytez)](https://pkg.go.dev/ezpkg.io/bytez)
 [![GitHub License](https://img.shields.io/github/license/ezpkg/bytez)](https://github.com/ezpkg/bytez/tree/main/LICENSE)
-[![version](https://img.shields.io/github/v/tag/ezpkg/bytez?label=version)](https://github.com/ezpkg/bytez/tags)
+[![version](https://img.shields.io/github/v/tag/ezpkg/bytez?label=version)](https://pkg.go.dev/ezpkg.io/bytez?tab=versions)
 
 Package [bytez](https://pkg.go.dev/ezpkg.io/bytez) provides utilities for working with byte slices. It aims to extend the standard library [bytes](https://pkg.go.dev/bytes) package with additional functionality.
 
